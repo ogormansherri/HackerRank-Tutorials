@@ -1,4 +1,4 @@
-# Problem Statement
+# Problem Statement 
 
 Given N integers, compute their average, correct to three decimal places.
 
