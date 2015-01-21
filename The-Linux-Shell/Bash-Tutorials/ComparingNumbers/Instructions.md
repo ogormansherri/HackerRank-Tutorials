@@ -1,10 +1,8 @@
-Problem Statement
+# Problem Statement: Comparing Numbers
 
 Given two integers X and Y, identify whether "X is less than Y" or "X is greater than Y" or "X is equal to Y".
 
 Comparisons in a shell script, may either be accomplished using regular operators (such as < or >) or using (-lt, -gt, -eq i.e. less than, greater than, equal to) for POSIX shells. This discussion on stack overflow contains useful information on this topic.
-
-# Instructions
 
 ## Input Format 
 
