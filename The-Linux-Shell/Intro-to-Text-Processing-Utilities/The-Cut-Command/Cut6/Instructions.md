@@ -1,7 +1,8 @@
-Problem Statement
+# Problem Statement
 
-Task 
-# Print the characters from thirteenth position to the end.
+## Task 
+
+Print the characters from thirteenth position to the end.
 
 ## Input Format 
 
