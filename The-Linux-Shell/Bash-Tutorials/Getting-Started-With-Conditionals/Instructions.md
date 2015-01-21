@@ -3,9 +3,12 @@
 'If' Statements in Bash are often used in four important ways:
 
 ```1. if...then...fi statements
+
 2. if...then...else...fi statements  
+
 3. if..elif..else..fi  
-4. if..then..else..if..then..fi..fi.. (Nested Conditionals)``
+
+4. if..then..else..if..then..fi..fi.. (Nested Conditionals)```
 
 The 'Recommended Resources' may give you a clearer idea of conditionals in bash.
 
