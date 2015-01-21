@@ -24,11 +24,15 @@ Four lines containing the sum, difference, product and quotient respectively.
 ## Sample Input
 
   > 5   
+  
   > 2
 
 ## Sample Output
 
  > 7
+ 
  > 3
+ 
  > 10
+ 
  > 2
