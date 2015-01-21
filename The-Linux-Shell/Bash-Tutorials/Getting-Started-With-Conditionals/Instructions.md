@@ -14,19 +14,22 @@
 
 The 'Recommended Resources' may give you a clearer idea of conditionals in bash.
 
-Your task:
+### Your task:
 
 Read in one character from the user (this may be 'Y', 'y', 'N', 'n'). If the character is 'Y' or 'y' display "YES". If the character is 'N' or 'n' display "NO". No other character will be provided as input.
 
-Input Format 
+## Input Format 
+
 One character (this may be 'Y', 'y', 'N', 'n').
 
-Output Format 
+## Output Format 
+
 One word: either "YES" or "NO" (quotation marks excluded)
 
-Sample Input 1
+## Sample Input 1
 
 y  
-Sample Output 1
+
+## Sample Output 1
 
 YES  
