@@ -33,7 +33,7 @@ Command:  `uniq < test.txt`
 02  
 ```
 
-Since the first two lines of the original file are the same (00) and same for the next two (01) again followed by two repetitions of 00 and two repetitions of 02 - the 'uniq' command replaces consecutive repetitions by only one line in each case.
+Since the first two lines of the original file are the same (00) and same for the next two (01) again followed by two repetitions of 00 and two repetitions of 02 - the `uniq` command replaces consecutive repetitions by only one line in each case.
 
 ### Uniq with counts
 
@@ -67,13 +67,13 @@ aa
       2 02
       1 03
       3 aa
-
 ```
+
 
 
 * The first number is the count of the number of repeated occurrences in the original file.
 * Printing only duplicate lines
-  *The '-d' option prints only those lines which are followed by one or more repetitions immediately after them.
+  *The `-d` option prints only those lines which are followed by one or more repetitions immediately after them.
   * `uniq -d < testCounts.txt`  
     * OR
   * `cat testCounts.txt | uniq -d`  
