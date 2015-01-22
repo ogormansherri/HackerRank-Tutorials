@@ -1,7 +1,7 @@
 # Text Processing in Linux 
 # Cut Command - #7 to Text Processing…
 
-## in Linux - The Cut Command - #7
+## Using Linux - The Cut Command - #7
 
 ## Problem Statement
 
