@@ -2,15 +2,16 @@
 
 # The 'uniq' command - #1
 
-Problem Statement
+## Problem Statement
 
-Introduction and References 
+### Introduction and References 
 In linux, the most vanilla version of 'uniq' eliminates consecutive repetitions of a line when a text file is piped through it.
 
-Plain Uniq
+### Plain Uniq
 
 For instance, if this is the file test.txt
 
+> ```
 00
 00
 01
@@ -19,6 +20,8 @@ For instance, if this is the file test.txt
 00
 02
 02
+```
+
 This is the output on passing it through the 'uniq' command, either via pipes or as input via STDIN.
 
 Command:  uniq < test.txt 
