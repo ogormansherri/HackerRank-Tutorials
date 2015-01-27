@@ -1,4 +1,4 @@
-Items completed for The Linux Shell Bash Tutorials Introduction
+Items completed for The Linux Shell Bash Tutorials 
 
 * A-Personalized-Echo	
   * Create script.sh	6 days ago
