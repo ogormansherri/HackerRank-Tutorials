@@ -1,4 +1,4 @@
-All items in this folder are using the Haskell Platform. See individual instruction sheets for each task.
+See individual instruction sheets for each task.
 
 
 The following items are completed for the Functional Programming Introduction Section:
@@ -8,3 +8,4 @@ The following items are completed for the Functional Programming Introduction Se
 * Hello World N Times
 * List Replication
 * Filter Array
+* Filter Positions in a List
