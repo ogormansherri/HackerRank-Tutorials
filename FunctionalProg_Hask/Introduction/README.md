@@ -9,5 +9,6 @@ The following items are completed for the Functional Programming Introduction Se
 * List Replication
 * Filter Array
 * Filter Positions in a List
-* Array of N elements
+* Array of N Elements
 * Reverse a List
+* Sum of Odd Elements
