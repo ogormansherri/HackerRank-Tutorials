@@ -10,3 +10,4 @@ The following items are completed for the Functional Programming Introduction Se
 * Filter Array
 * Filter Positions in a List
 * Array of N elements
+* Reverse a List
