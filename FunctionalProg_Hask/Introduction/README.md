@@ -12,3 +12,4 @@ The following items are completed for the Functional Programming Introduction Se
 * Array of N Elements
 * Reverse a List
 * Sum of Odd Elements
+* List Length
