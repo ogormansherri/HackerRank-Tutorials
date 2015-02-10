@@ -14,3 +14,4 @@ The following items are completed for the Functional Programming Introduction Se
 * Sum of Odd Elements
 * List Length
 * Update List
+* Evaluating `e^x`
