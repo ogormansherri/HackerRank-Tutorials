@@ -44,7 +44,7 @@ Website: https://www.hackerrank.com/domains
 
 ## Functional Programming (In Progress)
 
-* Introduction
+* Introduction [COMPLETE]
 * Data Structure
 * Persistent Data Structure
 * Parsers
