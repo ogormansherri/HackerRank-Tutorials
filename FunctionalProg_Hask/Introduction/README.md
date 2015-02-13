@@ -15,3 +15,4 @@ The following items are completed for the Functional Programming Introduction Se
 * List Length
 * Update List
 * Evaluating `e^x`
+* Area Under the Curve
